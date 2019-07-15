@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/hook">
+        <file>img/cuishi_hook.png</file>
+        <file>img/jiqi_hook.png</file>
+    </qresource>
+    <qresource prefix="/bg">
+        <file>img/bg.png</file>
+        <file>img/bc_1.jpg</file>
+        <file>img/BG_2.jpg</file>
+        <file>img/app.ico</file>
+        <file>img/lol.ico</file>
+        <file>img/3.png</file>
+        <file>img/bg_4.jpg</file>
+        <file>img/bg_3.jpg</file>
+        <file>img/21220836_24.jpg</file>
+        <file>img/timg.jpg</file>
+    </qresource>
+    <qresource prefix="/gameitem">
+        <file>img/baoshi.png</file>
+        <file>img/cuishi.png</file>
+        <file>img/gouxiong.png</file>
+        <file>img/jiqi.png</file>
+        <file>img/lulu.png</file>
+        <file>img/mengduo.png</file>
+        <file>img/mumu.png</file>
+        <file>img/timo.png</file>
+        <file>img/yasuo.png</file>
+        <file>img/dazui.png</file>
+        <file>img/bobi.png</file>
+        <file>img/boom.png</file>
+    </qresource>
+    <qresource prefix="/finish">
+        <file>img/defeat.png</file>
+        <file>img/emoji_1.png</file>
+        <file>img/emoji_2.png</file>
+        <file>img/emoji_3.png</file>
+        <file>img/emoji_4.png</file>
+        <file>img/victory.png</file>
+    </qresource>
+    <qresource prefix="/game">
+        <file>img/G_BG_1.png</file>
+        <file>img/item_1.png</file>
+        <file>img/item_2.png</file>
+        <file>img/item_3.png</file>
+        <file>img/item_4.png</file>
+        <file>img/P.png</file>
+        <file>img/LOL.png</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>img/button_2.png</file>
+        <file>img/button.png</file>
+    </qresource>
+</RCC>
